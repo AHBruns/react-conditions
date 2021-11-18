@@ -1,9 +1,10 @@
 {
   "name": "@alex-bruns/react-conditions",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "files": [
     "dist"
   ],
+  "repository": "https://github.com/AHBruns/react-conditions",
   "main": "./dist/react-conditions.umd.js",
   "module": "./dist/react-conditions.es.js",
   "exports": {
